@@ -54,10 +54,6 @@ Turning raw data into actionable insights | Python · SQL · Power BI · pandas
   <img src="https://streak-stats.demolab.com?user=NahuelRipoll&theme=dark&hide_border=true" width="55%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelRipoll&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%" />
-</p>
-
 ---
 
 ## Connect
