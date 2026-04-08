@@ -31,7 +31,6 @@ Turning raw data into actionable insights | Python · SQL · Power BI · pandas
 
 **Databases**  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 **Other**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -52,8 +51,11 @@ Turning raw data into actionable insights | Python · SQL · Power BI · pandas
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NahuelRipoll&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelRipoll&layout=compact&theme=dark&hide_border=true" width="40%" />
+  <img src="https://streak-stats.demolab.com?user=NahuelRipoll&theme=dark&hide_border=true" width="55%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NahuelRipoll&layout=compact&theme=dark&hide_border=true&langs_count=6" width="40%" />
 </p>
 
 ---
