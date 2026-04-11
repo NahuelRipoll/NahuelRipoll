@@ -45,8 +45,7 @@ Turning raw data into actionable insights | Python · SQL · Power BI · pandas
 |---|---|---|
 | [📈 Monitor de Cotizaciones Financieras](https://github.com/NahuelRipoll/Monitor-de-cotizaciones-financieras) | Real-time financial data monitor | TypeScript |
 | [🏎️ F1 Analytics Dashboard](https://github.com/NahuelRipoll/f1-analytics-dashboard) | Formula 1 data analysis & visualization | TypeScript |
-| [🛒 Superstore Sales EDA](https://github.com/NahuelRipoll/superstore-sales-eda) | Análisis exploratorio de ventas
-  retail: rentabilidad, descuentos y tendencias | Python · pandas · seaborn |
+| [🛒 Superstore Sales EDA](https://github.com/NahuelRipoll/superstore-sales-eda) | Análisis exploratorio de ventas retail: rentabilidad, descuentos y tendencias | Python · pandas · seaborn |
 
 ---
 
