@@ -1,5 +1,5 @@
 # Hola, soy Nahuel 👋
-                                                                                                                          **Data Analyst & Entusiasta de Data Science** con base en Argentina 🇦🇷
+    **Data Analyst & Entusiasta de Data Science** con base en Argentina 🇦🇷
   Transformando datos en decisiones | Python · SQL · Power BI · pandas                                                  
   ---
 
@@ -62,5 +62,4 @@
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.
   com/in/nahuel-ripoll)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nripoll02@gmail.com
-  )
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nripoll02@gmail.com)
