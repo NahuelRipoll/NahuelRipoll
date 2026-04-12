@@ -46,6 +46,8 @@ Transformando datos en decisiones | Python · SQL · Power BI · pandas
 | [📈 Monitor de Cotizaciones Financieras](https://github.com/NahuelRipoll/Monitor-de-cotizaciones-financieras) | Monitor de datos financieros en tiempo real | TypeScript |
 | [🏎️ F1 Analytics Dashboard](https://github.com/NahuelRipoll/f1-analytics-dashboard) | Análisis y visualización de datos de Fórmula 1 | TypeScript |
 | [🛒 Superstore Sales EDA](https://github.com/NahuelRipoll/superstore-sales-eda) | Análisis exploratorio de ventas retail: rentabilidad, descuentos y tendencias | Python · pandas · seaborn |
+| [🔮 Telco-churn-prediction](https://github.com/NahuelRipoll/telco-churn-prediction) | Predicción de churn de clientes con XGBoost: EDA, SMOTE, cross-validation y API REST de inferencia | Python · scikit-learn · XGBoost · FastAPI |                                            
+
 
 ---
 
