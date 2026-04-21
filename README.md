@@ -11,7 +11,7 @@ Transformando datos en decisiones | Python · SQL · Power BI · pandas
 - 🐍 Construyendo proyectos con **Python, pandas, scikit-learn y Jupyter**
 - 📈 Creando dashboards e informes con **Power BI**
 - 🌐 Background en desarrollo Front-End (JavaScript, React, TypeScript)
-- 📬 Contactame en **nripoll02@gmail.com**
+- 📬 Contactame en **nahuelripoll33@gmail.com**
 
 ---
 
