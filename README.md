@@ -76,9 +76,6 @@
 
   ## Contacto
 
-  [![Portfolio](https://img.shields.io/badge/Portfolio-nahuelripoll.github.io-e2ff5d?
-  style=flat&logo=githubpages&logoColor=black)](https://nahuelripoll.github.io)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://
-  www.linkedin.com/in/nahuel-ripoll/)
-  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]
-  (mailto:nahuelripoll33@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-nahuelripoll.github.io-e2ff5d?style=flat&logo=githubpages&logoColor=black)](https://nahuelripoll.github.io)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahuel-ripoll/)
+  [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nahuelripoll33@gmail.com)
